@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_variant">#1E88E5</color>
+
+    <color name="secondary">#757575</color>
+    <color name="secondary_dark">#424242</color>
+
+    <color name="accent">#FF9800</color>
+    <color name="accent_light">#FFE0B2</color>
+    <color name="accent_dark">#F57C00</color>
+
+    <color name="success">#4CAF50</color>
+    <color name="success_dark">#388E3C</color>
+    <color name="warning">#FF9800</color>
+    <color name="warning_dark">#F57C00</color>
+    <color name="danger">#F44336</color>
+    <color name="danger_dark">#D32F2F</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <color name="background_light">#FAFAFA</color>
+    <color name="card_front_end">#F8F9FA</color>
+    <color name="card_border">#E0E0E0</color>
+
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+
+    <color name="disabled">#BDBDBD</color>
+</resources>
